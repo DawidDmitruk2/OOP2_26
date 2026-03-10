@@ -1,15 +1,27 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        Point p1 = new Point();
+        p1.x=50.0;
+        p1.y=50.0;
+        System.out.println(p1);
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        System.out.println(p1.toSvg());
+
+        p1.translate(10,-20);
+        System.out.println(p1);
+        System.out.println(p1.toSvg());
+
+        Point p2=p1.translated(-30,40);
+        System.out.println(p2);
+        System.out.println(p2.toSvg());
+
+        Segment s1= new Segment();
+        s1.a=p1;
+        s1.b=p2;
+
+        System.out.println("dlugosc s1= "+ s1.leangth());
+        System.out.println(s1);
+
+        System.out.println(s1.toSvg());
     }
 }
