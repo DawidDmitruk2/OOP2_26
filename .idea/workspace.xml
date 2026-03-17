@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7fff918-8e5f-4a5c-bcec-d0d41fca4b22" name="Changes" comment="SvgScene">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
-    </list>
+    <list default="true" id="d7fff918-8e5f-4a5c-bcec-d0d41fca4b22" name="Changes" comment="SvgScene main2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +39,8 @@
     "onboarding.tips.debug.path": "/home/student/oop_2026/gr2/svg/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="TaskManager">
@@ -77,12 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1773766282580</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SvgScene main2">
+      <option name="closed" value="true" />
+      <created>1773766576065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773766576065</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kopia gleboka" />
     <MESSAGE value="SvgScene" />
-    <option name="LAST_COMMIT_MESSAGE" value="SvgScene" />
+    <MESSAGE value="SvgScene main2" />
+    <option name="LAST_COMMIT_MESSAGE" value="SvgScene main2" />
   </component>
 </project>
