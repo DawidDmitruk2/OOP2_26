@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7fff918-8e5f-4a5c-bcec-d0d41fca4b22" name="Changes" comment="Kopia gleboka">
-      <change afterPath="$PROJECT_DIR$/src/SvgScene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d7fff918-8e5f-4a5c-bcec-d0d41fca4b22" name="Changes" comment="SvgScene">
+      <change beforePath="$PROJECT_DIR$/src/SvgScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SvgScene.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +57,20 @@
       <option name="project" value="LOCAL" />
       <updated>1773765857594</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SvgScene">
+      <option name="closed" value="true" />
+      <created>1773766112798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773766112798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kopia gleboka" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kopia gleboka" />
+    <MESSAGE value="SvgScene" />
+    <option name="LAST_COMMIT_MESSAGE" value="SvgScene" />
   </component>
 </project>
