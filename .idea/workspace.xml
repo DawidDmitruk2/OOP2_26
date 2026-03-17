@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7fff918-8e5f-4a5c-bcec-d0d41fca4b22" name="Changes" comment="SvgScene main2">
+    <list default="true" id="d7fff918-8e5f-4a5c-bcec-d0d41fca4b22" name="Changes" comment="obrazek">
+      <change afterPath="$PROJECT_DIR$/src/Style.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/svg/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/svg/Main2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polygon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -112,13 +113,22 @@
       <option name="project" value="LOCAL" />
       <updated>1773768688501</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="obrazek">
+      <option name="closed" value="true" />
+      <created>1773768868302</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773768868302</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kopia gleboka" />
     <MESSAGE value="SvgScene" />
     <MESSAGE value="SvgScene main2" />
-    <option name="LAST_COMMIT_MESSAGE" value="SvgScene main2" />
+    <MESSAGE value="obrazek" />
+    <option name="LAST_COMMIT_MESSAGE" value="obrazek" />
   </component>
 </project>
