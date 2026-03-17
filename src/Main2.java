@@ -35,3 +35,10 @@ public class Main2 {
         scene.save("obrazek.svg");
     }
 }
+
+
+//KOLOKWIUM
+/*
+zapis do pliku
+odczyt
+ */
